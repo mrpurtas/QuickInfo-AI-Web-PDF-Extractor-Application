@@ -1,2 +1,3 @@
-# LangChain-RetrievalAugmentedGeneration
- Retrieval Augmented Generation Application
+##RAG-Powered Web and PDF Content Extraction Application 📊📚
+
+This Streamlit-based web application enables users to swiftly extract information from web pages and PDF files. By entering multiple URLs or uploading PDF documents, they can receive in-depth answers to specific queries. Powered by technologies such as LangChain and Google Generative AI, this tool facilitates efficient information retrieval from large datasets and documents. Enhanced with RAG (Retrieval-Augmented Generation) and Gemini models, the application offers enriched responses, saving users time and providing quick access to information 🚀. It's an ideal resource for researchers, students, and anyone in need of fast information access. Streamlit's user-friendly interface supports efficient application use, making it a valuable tool for comprehensive data analysis and inquiry 🔍💡.
